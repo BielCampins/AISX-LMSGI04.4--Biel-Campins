@@ -1,0 +1,34 @@
+{
+  "alumne": [
+    {
+      "id": 1,
+      "nom": "Joan",
+      "llinatges": "Garcia Pons",
+      "data_matricula": "2024-09-01",
+      "curs": "DAM"
+    },
+    {
+      "id": 10,
+      "nom": "Laura",
+      "llinatges": "Martí Serra",
+      "data_matricula": "2023-09-01",
+      "curs": "DAW"
+    }
+  ],
+  "professor": [
+    {
+      "id": 5,
+      "nom": "Maria",
+      "llinatges": "Serra López",
+      "data_incorporacio": "2020-09-01",
+      "departament": "Informàtica",
+      "assignatura": [
+        {
+          "id_assignatura": 1,
+          "nom_assignatura": "Programació",
+          "cicle": "DAM"
+        }
+      ]
+    }
+  ]
+}
