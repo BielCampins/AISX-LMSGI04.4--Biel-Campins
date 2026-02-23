@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE cifp SYSTEM "cifp.dtd">
+
+<cifp>
+    <alumne id="a1">
+        <nom>Joan</nom>
+        <llinatges>Garcia Pons</llinatges>
+        <data_matricula>2024-09-01</data_matricula>
+        <curs>DAM</curs>
+    </alumne>
+
+    <professor id="p1">
+        <nom>Maria</nom>
+        <llinatges>Serra López</llinatges>
+        <data_incorporacio>2020-09-01</data_incorporacio>
+        <departament>Informàtica</departament>
+        <assignatura id_assignatura="as1">
+            <nom_assignatura>Programació</nom_assignatura>
+        </assignatura>
+    </professor>
+</cifp>
